@@ -1,3 +1,5 @@
+Autor: @oscarcornejo10
+
 frontend-profesional
 ====================
 
